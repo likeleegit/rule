@@ -1,0 +1,12 @@
+payload:
+  - DOMAIN-REGEX,annas-archive\.(se|li|org)$
+  - DOMAIN,cdn4.booksdl.org
+  - DOMAIN-SUFFIX,metacubex.one
+  - DOMAIN-SUFFIX,duckduckgo.com
+  - DOMAIN-SUFFIX,kzaobao.com
+  - DOMAIN-SUFFIX,pdf-xchange.com
+  - DOMAIN-SUFFIX,haiwaihuaren.com
+  - DOMAIN-SUFFIX,downloadlynet.ir
+  - DOMAIN-SUFFIX,kanav.ad
+  - DOMAIN-SUFFIX,torrentkitty.net
+  - DOMAIN-SUFFIX,hjd2048.com
