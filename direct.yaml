@@ -1,1 +1,31 @@
-
+payload:
+  - DOMAIN,clash.razord.top
+  - DOMAIN,yacd.metacubex.one
+  - DOMAIN,yacd.haishan.me
+  - DOMAIN,d.metacubex.one
+  - DOMAIN-REGEX,.*\.gallerycdn\.vsassets\.io
+  - DOMAIN-REGEX,anaconda\.(cloud|com|org)
+  - DOMAIN-REGEX,anaconda.*\.io
+  - DOMAIN-SUFFIX,transcend-cdn.com
+  - DOMAIN-SUFFIX,conda.io
+  - DOMAIN-SUFFIX,massgrave.dev
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,diagrams.net
+  - DOMAIN-SUFFIX,immersivetranslate.com
+  - DOMAIN-SUFFIX,adobe.com
+  - RULE-SET,microsoft_domain
+  - RULE-SET,microsoft@cn_domain
+  - RULE-SET,bilibili_domain
+  - RULE-SET,intel_domain
+  - DOMAIN-SUFFIX,nvidia.com
+  - DOMAIN-SUFFIX,zotero.org
+  - DOMAIN,unpkg.com
+  - DOMAIN,ocsp.digicert.com
+  - DOMAIN-SUFFIX,lencr.org
+  - DOMAIN-SUFFIX,infini-cloud.net
+  - DOMAIN-SUFFIX,teracloud.jp
+  - DOMAIN-REGEX,.*\.filen.*\.(net|io)
+  - PROCESS-NAME,language_server_windows_x64.exe
+  - PROCESS-NAME,Obsidian.exe
+  - DOMAIN,unleash.codeium.com
+  - DOMAIN,server.codeium.com
