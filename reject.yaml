@@ -1,0 +1,12 @@
+payload:
+  - PROCESS-NAME,AcroCEF.exe
+  - PROCESS-NAME,acrotray.exe
+  - PROCESS-NAME,Clash Verge.exe
+  - PROCESS-NAME-REGEX,(?i:A)dobe.*exe
+  - PROCESS-PATH-REGEX,.*\\Bandizip\\.*
+  - PROCESS-PATH-REGEX,.*\\EmEditor\\.*
+  - PROCESS-PATH-REGEX,.*\\CCleaner\\.*
+  - DOMAIN-SUFFIX,care-eyes.com
+  - DOMAIN,hub5btmain.sandai.net
+  - DOMAIN,hub5emu.sandai.net
+  - DOMAIN,upgrade.xl9.xunlei.com
